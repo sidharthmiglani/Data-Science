@@ -1,0 +1,40 @@
+Use this document to talk about how to break up
+tasks, ideas for project, question, and timeline.
+
+I'm thinking movies is the easiest to do movies.
+
+
+Timeline: (Due Friday August 02 2019 )
+
+By July 3:
+-Agree on questions we want to answer
+-find tests we need to do
+-understand what machine learning we need to do
+-understand additional things: API, tools....
+-assign tasks
+
+By July 11:
+
+By July 17:
+
+By July 22:
+
+By July 26:
+
+By July 30 : SUBMIT
+
+
+Ideas:
+-Questions we want answered:
+Do the various criteria for success (critic reviews, audience reviews, profit/loss) correlate with each other? Is there something you can say about better or worse kinds of “success”?
+Can you predict review scores from other data we have about the movie? Maybe genre determines a lot about the success or a movie? Or maybe the actors?
+Does the plot summary predict success in any useful way? (See “Natural Language Processing” below.)
+What specific factors are related to a movie's success? Which are the most related? Is paying Vin Diesel worth it?
+Have any of these things changed over time (depending on the movie's release date)? Maybe people in the past liked documentaries more than we do now.
+-Statistical tests we need to use:
+-Machine Learning concepts we need to use:
+
+Tasks Assigned:
+-Sarb:
+
+-Sid:
