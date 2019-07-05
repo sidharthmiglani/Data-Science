@@ -14,27 +14,56 @@ By July 3:
 -assign tasks
 
 By July 11:
+-get all data needed for tests
 
 By July 17:
+-do statistical tests
 
 By July 22:
+-do machine learning
 
 By July 26:
+-finish project and report
 
 By July 30 : SUBMIT
 
 
 Ideas:
--Questions we want answered:
-Do the various criteria for success (critic reviews, audience reviews, profit/loss) correlate with each other? Is there something you can say about better or worse kinds of “success”?
-Can you predict review scores from other data we have about the movie? Maybe genre determines a lot about the success or a movie? Or maybe the actors?
-Does the plot summary predict success in any useful way? (See “Natural Language Processing” below.)
-What specific factors are related to a movie's success? Which are the most related? Is paying Vin Diesel worth it?
-Have any of these things changed over time (depending on the movie's release date)? Maybe people in the past liked documentaries more than we do now.
--Statistical tests we need to use:
--Machine Learning concepts we need to use:
+I think two statisical and one machine learning question is enough
+to start. We can add more if we need to.
 
-Tasks Assigned:
--Sarb:
+Type of Questions we can ask:
+  Statistical:
+    assingment 4 : is there any correlation between population density and temperature?
+    assignment 5 :  are there a different number of Reddit comments posted on weekdays than on weekends?
+    assignment 5: do the number of comments on weekends and weekdays for each week differ?”
+    assingment 6: Did more users use the search feature? ,
+    assign 7 : have the ratings given by this Twitter account been changing over time?
+    Statistcal test lecture:
+      - Is there any difference in height between SFU, UBC, and UVic students?
 
--Sid:
+
+  Machine Learning:
+    assignment 8 : Create a program weather_city.py that reads the labelled data and trains and validates a machine learning model for the best possible results. It should then predict the cities where the unlabelled 2016 weather came from.
+    Classification lecture:
+     -Is this email spam? Is this credit card charge fraud? (2 categories)
+     -What (English) word did the user say into the microphone? (≈470k categories *)
+      -What day will the Grouse Grind open next year? (≪365 categories) Or is that regression?
+      -How many people are in this picture? Who are the people?
+      -Given weather observations, can you guess what city are we looking at?
+
+  - More ideas Questions we want answered:
+  Coorelation between box office profit and critic scores?
+  Coorelation between budget and box office?
+  Prof suggestions:
+  Do the various criteria for success (critic reviews, audience reviews, profit/loss) correlate with each other? Is there something you can say about better or worse kinds of “success”?
+  Can you predict review scores from other data we have about the movie? Maybe genre determines a lot about the success or a movie? Or maybe the actors?
+  Does the plot summary predict success in any useful way? (See “Natural Language Processing” below.)
+  What specific factors are related to a movie's success? Which are the most related? Is paying Vin Diesel worth it?
+  Have any of these things changed over time (depending on the movie's release date)? Maybe people in the past liked documentaries more than we do now.
+
+
+  QUESTIONS WE WANT ANSWERED AND WHAT TESTS TO USE FOR EACH ONE:
+    -looking at plot to see what genere movie we are looking at
+    - Do people like the first movie in a series better than the rest
+    - coorelation between number of awards and critic scores?
