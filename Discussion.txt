@@ -67,3 +67,4 @@ Type of Questions we can ask:
     -looking at plot to see what genere movie we are looking at
     - Do people like the first movie in a series better than the rest
     - coorelation between number of awards and critic scores?
+    - predict box office score based on what movies won and cost of movie
