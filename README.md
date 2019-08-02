@@ -1,6 +1,3 @@
-In your repository's README (or README.md) file, you should document your code and how to run it: required libraries, commands (and arguments), order of execution, files produced/expected. You should do this because (1) you should always do that, and (2) to give us some hope of running your code.
-
-
 
 # ProjectMovies
 Final Project in Computational Data Science. Answer questions using statistical analysis and machine learning on movie data.
