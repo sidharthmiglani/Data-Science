@@ -1,0 +1,153 @@
+movie_name1,rotten_id1,rotten_rating1,movie_name2,rotten_id2,rotten_rating2
+Rocky,m/1017776-rocky,69.0,Rocky II,m/rocky_ii,82.0
+Star Trek: The Motion Picture,m/star_trek_the_motion_picture,42.0,Star Trek II: The Wrath of Khan,m/star_trek_ii_the_wrath_of_khan,90.0
+Friday the 13th (1980 film),m/friday_the_13th_part_1,60.0,Friday the 13th Part 2,m/friday_the_13th_part_2,48.0
+American Pie (film),m/american_pie,61.0,American Pie 2,m/american_pie_2,68.0
+Drifting Clouds (film),m/drifting_clouds,91.0,The Man Without a Past,m/man_without_a_past,90.0
+The Hunger Games (film),m/the_hunger_games,81.0,The Hunger Games: Catching Fire,m/the_hunger_games_catching_fire,89.0
+Hour of the Wolf,m/hour_of_the_wolf,86.0,Shame (1968 film),m/shame,88.0
+The Matrix,m/matrix,85.0,The Matrix Reloaded,m/matrix_reloaded,72.0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",m/chronicles_of_narnia_lion_witch_wardrobe,61.0,The Chronicles of Narnia: Prince Caspian,m/chronicles_of_narnia_prince_caspian,73.0
+The Hunchback of Notre Dame (1982 film),m/1029827-hunchback,50.0,"Sarah, Plain and Tall (film)",m/sarah_plain_and_tall,71.0
+Resident Evil (film),m/resident_evil,67.0,Resident Evil: Apocalypse,m/resident_evil_apocalypse,60.0
+Batman Begins,m/batman_begins,94.0,The Dark Knight (film),m/the_dark_knight,94.0
+The Naked Gun: From the Files of Police Squad!,m/naked_gun_from_the_files_of_police_squad,84.0,The Naked Gun 2½: The Smell of Fear,m/naked_gun_2_12_the_the_smell_of_fear,65.0
+Mission: Impossible (film),m/mission_impossible,71.0,Mission: Impossible 2,m/mission_impossible_ii,43.0
+Halloween (1978 film),m/1009113-halloween,89.0,Halloween II (1981 film),m/halloween_ii,63.0
+Koyaanisqatsi,m/koyaanisqatsi_life_out_of_balance,91.0,Powaqqatsi,m/powaqqatsi,81.0
+"Adiós, Sabata",m/indio-black-sai-che-ti-dico-sei-un-gran-figlio-diadios-sabataindio-blackthe-bounty-hunters,47.0,Return of Sabata,m/return_of_sabata,47.0
+Shadows in Paradise,m/shadows_in_paradise,87.0,Ariel (film),m/770672181,87.0
+The Fast and the Furious (2001 film),m/1108372_fast_and_the_furious,74.0,2 Fast 2 Furious,m/2_fast_2_furious,50.0
+Fort Apache (film),m/fort_apache,83.0,Rio Grande (film),m/rio_grande,71.0
+Finding Nemo,m/finding_nemo,86.0,Finding Dory,m/finding_dory,84.0
+L'Auberge Espagnole,m/auberge_espagnol,86.0,Russian Dolls (film),m/russian_dolls,77.0
+Critters (film),m/critters,44.0,Critters 2: The Main Course,m/critters_2_the_main_course,36.0
+Flatfoot (film),m/piedone_lo_sbirro,46.0,Flatfoot in Hong Kong,m/flatfoot-in-hong-kong,53.0
+Taken (film),m/taken,85.0,Taken 2,m/taken_2_2012,89.0
+Shaun of the Dead,m/shaun_of_the_dead,93.0,Hot Fuzz,m/hot_fuzz,57.0
+Insidious (film),m/insidious,62.0,Insidious: Chapter 2,m/insidious_chapter_2,92.0
+Satya (1998 film),m/satya,90.0,Company (film),m/147815032,41.0
+Stuart Little (film),m/stuart_little,41.0,Stuart Little 2,m/stuart_little_2,60.0
+The State I Am In (film),m/770680696,63.0,Ghosts (2005 film),m/ghosts_2005,61.0
+Gods of the Plague,m/gods-of-the-plague,47.0,Love Is Colder Than Death (film),m/20447,77.0
+Lethal Weapon,m/lethal_weapon,85.0,Lethal Weapon 2,m/lethal_weapon_2,51.0
+Jurassic Park (film),m/jurassic_park,91.0,The Lost World: Jurassic Park,m/lost_world_jurassic_park,77.0
+21 Jump Street (film),m/21-jump-street-2011,82.0,22 Jump Street,m/22_jump_street,92.0
+The Elementary School,m/770679555,93.0,Kolya,m/kolya,79.0
+Under the Sand,m/under_the_sand,83.0,Time to Leave,m/time_to_leave,38.0
+Puppet Master (film),m/puppet_master,40.0,Puppet Master II,m/puppet_master_ii,85.0
+In the Mood for Love,m/in_the_mood_for_love_2001,94.0,2046 (film),m/2046,89.0
+Head-On (2004 film),m/head_on_2005,93.0,The Edge of Heaven (film),m/1193111-edge_of_heaven,63.0
+Man of Steel (film),m/superman-man-of-steel,75.0,Batman v Superman: Dawn of Justice,m/batman_v_superman_dawn_of_justice,74.0
+Love Exposure,m/love_exposure_2008,88.0,Cold Fish,m/cold_fish_2011,79.0
+Breaking the Waves,m/breaking_the_waves,91.0,The Idiots,m/the-idiots,61.0
+Dracula (1958 film),m/horror_of_dracula,80.0,The Brides of Dracula,m/brides_of_dracula,54.0
+The Maze Runner (film),m/the_maze_runner,68.0,Maze Runner: The Scorch Trials,m/maze_runner_the_scorch_trials,95.0
+The Lord of the Rings: The Fellowship of the Ring,m/lord_of_the_rings_the_fellowship_of_the_ring,95.0,The Lord of the Rings: The Two Towers,m/lord_of_the_rings_the_two_towers,72.0
+Pirates of the Caribbean: The Curse of the Black Pearl,m/pirates_of_the_caribbean_the_curse_of_the_black_pearl,86.0,Pirates of the Caribbean: Dead Man's Chest,m/pirates_of_the_caribbean_dead_mans_chest,34.0
+Masti (2004 film),m/410877866,70.0,Grand Masti,m/grand_masti,22.0
+Highlander (film),m/highlander,79.0,Highlander II: The Quickening,m/highlander_2_the_quickening,85.0
+X-Men (film),m/xmen,83.0,X2 (film),m/x2_xmen_united,63.0
+It's Tough Being a Man,m/otoko_wa_tsurai_yo_1969,86.0,Tora-san's Cherished Mother,m/tora-sans-cherished-mother,58.0
+The Transporter,m/transporter,73.0,Transporter 2,m/transporter_2,84.0
+Batman (1966 film),m/batman_the_movie,62.0,Batman (1989 film),m/1001781-batman,75.0
+The Three Musketeers (1973 film),m/1021340-three_musketeers,78.0,The Four Musketeers (1974 film),m/four_musketeers,37.0
+Airport (1970 film),m/airport,53.0,Airport 1975,m/airport_1975,80.0
+Harry Potter and the Philosopher's Stone (film),m/harry_potter_and_the_sorcerers_stone,82.0,Harry Potter and the Chamber of Secrets (film),m/harry_potter_and_the_chamber_of_secrets,48.0
+Star Wars (film),m/star_wars,96.0,The Empire Strikes Back,m/empire_strikes_back,89.0
+Kill Bill: Volume 1,m/kill_bill_vol_1,81.0,Kill Bill: Volume 2,m/kill_bill_volume_2,58.0
+Final Destination (film),m/final_destination,68.0,Final Destination 2,m/final_destination_2,35.0
+The Amityville Horror (1979 film),m/1000875-amityville_horror,52.0,Amityville II: The Possession,m/amityville_2_the_possession,46.0
+Child's Play 2,m/childs_play_2,47.0,Bride of Chucky,m/bride_of_chucky,64.0
+Mary Poppins (film),m/mary_poppins,86.0,Mary Poppins Returns,m/mary_poppins_returns,83.0
+Dr. No (film),m/dr_no,82.0,From Russia with Love (film),m/from_russia_with_love,60.0
+The Bird with the Crystal Plumage,m/bird_with_the_crystal_plumage,80.0,Four Flies on Grey Velvet,m/1206848-four_flies_on_grey_velvet,48.0
+Fifty Shades of Grey (film),m/fifty_shades_of_grey,41.0,Fifty Shades Darker (film),m/fifty_shades_darker,65.0
+Barbie and the Rockers: Out of This World,m/barbie-and-the-rockers-out-of-this-world-barbie-and-the-rock-stars-out-of-this-world,80.0,Barbie as Rapunzel,m/barbie-as-rapunzel,76.0
+Antz,m/antz,52.0,The Prince of Egypt,m/prince_of_egypt,90.0
+The 400 Blows,m/400_blows,94.0,Stolen Kisses,m/stolen_kisses,90.0
+Night of the Living Dead,m/1015052_night_of_the_living_dead,87.0,Dawn of the Dead (1978 film),m/1005339-dawn_of_the_dead,70.0
+Die Hard,m/die_hard,94.0,Die Hard 2,m/die_hard_2_die_harder,72.0
+Fantastic Beasts and Where to Find Them (film),m/fantastic_beasts_and_where_to_find_them,79.0,Fantastic Beasts: The Crimes of Grindelwald,m/fantastic_beasts_and_where_to_find_them_2,93.0
+The Cat Returns,m/the_cat_returns,82.0,Howl's Moving Castle (film),m/howls_moving_castle,91.0
+Before Sunrise,m/before_sunrise,93.0,Before Sunset,m/before_sunset,66.0
+Young Guns (film),m/young_guns,76.0,Young Guns II,m/young_guns_2,86.0
+The Aviator's Wife,m/aviators_wife,83.0,Pauline at the Beach,m/pauline_at_the_beach,81.0
+A Tale of Springtime,m/a_tale_of_springtime_1992,74.0,A Tale of Winter,m/a_tale_of_winter,53.0
+Sister Street Fighter: Hanging by a Thread,m/sister-street-fighter-hanging-by-a-thread,29.0,The Return of the Sister Street Fighter,m/the_return_of_the_sister_street_fighter,97.0
+The Godfather,m/godfather,98.0,The Godfather Part II,m/godfather_part_ii,43.0
+The Return of the Living Dead,m/return_of_the_living_dead,79.0,Return of the Living Dead Part II,m/return_of_the_living_dead_2,85.0
+Mad Max,m/mad_max,70.0,Mad Max 2,m/road_warrior,39.0
+The Bakery Girl of Monceau,m/la_boulangere_de_monceau_2003,82.0,Suzanne's Career,m/suzannes-career-1963,57.0
+Lemon Popsicle,m/eskimo_limon_1978,53.0,Shifshuf Naim,m/770684002,35.0
+Cube (film),m/cube,76.0,Cube 2: Hypercube,m/cube_2_hypercube,70.0
+Taxi (1998 film),m/10000897-taxi,81.0,Taxi 2,m/taxi_2,64.0
+Fantômas se déchaîne,m/147505871,66.0,Fantômas contre Scotland Yard,m/fantomas_contre_scotland_yard,77.0
+Cavale,m/770690665,73.0,Après la vie,m/after_the_life,93.0
+Where Is the Friend's Home?,m/khane_ye_doust_kodjast_1987,92.0,"Life, and Nothing More...",m/life_and_nothing_more,33.0
+The Living Desert,m/the-living-desert,75.0,White Wilderness (film),m/truelife_adventures_white_wilderness,29.0
+Psycho II (film),m/psycho_2,53.0,Psycho III,m/psycho_3,70.0
+Take This Sabbath Day,tv/the-west-wing/s01/e14,76.0,Celestial Navigation (The West Wing),tv/the-west-wing/s01/e15,44.0
+The Frog Prince (1986 film),m/the_frog_prince_1988,45.0,Snow White (1987 film),m/11468,94.0
+Vares: Private Eye,m/vares-yksityisetsiva-vares-private-eye,91.0,V2: Dead Angel,m/v2-jaatynyt-enkeli-v2-dead-angel,71.0
+A Fistful of Dollars,m/fistful_of_dollars,71.0,For a Few Dollars More,m/for_a_few_dollars_more,87.0
+Dead or Alive (film),m/dead_or_alive_2,87.0,Dead or Alive 2: Birds,m/17603,56.0
+Scream (1996 film),m/1074316,67.0,Scream 2,m/scream_2,44.0
+Phantasm (film),m/phantasm,50.0,Phantasm II,m/phantasm_2,46.0
+Johnny English,m/johnny_english,75.0,Johnny English Reborn,m/johnny_english_reborn,62.0
+Tremors (film),m/tremors,52.0,Tremors 2: Aftershocks,m/tremors_2_aftershocks,63.0
+Ultimo mondo cannibale,m/17511,66.0,Cannibal Holocaust,m/cannibal_holocaust,60.0
+The Italian Connection,m/the_italian_connection_1972,92.0,Il Boss,m/boss-il,48.0
+The Thing (1982 film),m/1021244-thing,56.0,Prince of Darkness (film),m/prince_of_darkness,55.0
+City of the Living Dead,m/city_of_the_living_dead,74.0,The House by the Cemetery,m/the-house-by-the-cemetery,86.0
+The Element of Crime,m/element_of_crime,94.0,Epidemic (film),m/epidemic,49.0
+Amores perros,m/amores_perros,39.0,21 Grams,m/21_grams,86.0
+Clash of the Titans (2010 film),m/clash_of_the_titans_2010,82.0,Wrath of the Titans,m/clash_of_the_titans_2,20.0
+Winnie the Pooh and the Honey Tree,m/winnie_the_pooh_and_the_honey_tree,40.0,Winnie the Pooh and the Blustery Day,m/winnie_the_pooh_and_the_blustery_day,22.0
+Children of the Corn (1984 film),m/1004047-children_of_the_corn,53.0,Children of the Corn II: The Final Sacrifice,m/children_of_the_corn_ii_the_final_sacrifice,60.0
+Wild Things (film),m/wild_things,80.0,Wild Things 2,m/wild_things_2,83.0
+Ocean's Eleven,m/oceans_eleven,95.0,Ocean's Twelve,m/oceans_twelve,49.0
+Alvin and the Chipmunks (film),m/1184827-alvin_and_the_chipmunks,39.0,Alvin and the Chipmunks: The Squeakquel,m/10009926-alvin_and_the_chipmunks_2,94.0
+The Marriage of Maria Braun,m/the-brd-trilogy-the-marriage-of-maria-braun,53.0,Lola (1981 film),m/748169895,37.0
+Bean (film),m/bean,59.0,Mr. Bean's Holiday,m/mr_beans_holiday,50.0
+Beverly Hills Chihuahua,m/10008587-beverly_hills_chihuahua,78.0,Beverly Hills Chihuahua 2,m/beverly_hills_chihuahua_2,35.0
+Blade (film),m/1083484-blade,40.0,Blade II,m/blade_2_bloodhunting,65.0
+Promised Land (2004 film),m/1162668-promised_land,87.0,Free Zone (film),m/1159177-free_zone,37.0
+Rogue One,m/rogue_one_a_star_wars_story,61.0,Solo: A Star Wars Story,m/solo_a_star_wars_story,77.0
+Death Race (film),m/death_race,76.0,Death Race 2,m/death_race_2,78.0
+Dhoom,m/dhoom,83.0,Dhoom 2,m/dhoom_2,90.0
+Don (1978 film),m/465647582,81.0,Don (2006 Hindi film),m/357425013,71.0
+The Wizard of Oz (1939 film),m/1092277-wizard_of_oz,77.0,The War of the Worlds (1953 film),m/1023137-war_of_the_worlds,60.0
+Goal! (film),m/1158528-goal,51.0,Goal II: Living the Dream,m/goal_2_living_the_dream,71.0
+Roommates (2006 film),m/dday-roommates-4-horror-tales,95.0,February 29 (film),m/770814858,42.0
+Infernal Affairs,m/infernal_affairs,64.0,Infernal Affairs III,m/infernal_affairs_3,73.0
+Police Academy (film),m/police_academy,88.0,Police Academy 2: Their First Assignment,m/police_academy_2_their_first_assignment,93.0
+The Hunt for Red October (film),m/hunt_for_red_october,94.0,Patriot Games (film),m/patriot_games,23.0
+Pather Panchali,m/pather_panchali,25.0,Aparajito,m/aparajito,72.0
+Killjoy (2000 film),m/1100772-killjoy,71.0,Killjoy 2: Deliverance from Evil,m/killjoy_2_deliverance_from_evil_2002,44.0
+The Incredible Hulk (film),m/the_incredible_hulk,71.0,Iron Man 2,m/iron_man_2,60.0
+Austin Powers: The Spy Who Shagged Me,m/austin_powers_the_spy_who_shagged_me,72.0,Austin Powers in Goldmember,m/austin_powers_in_goldmember,56.0
+Stitch! The Movie,m/stitch_the_movie,78.0,Lilo & Stitch 2: Stitch Has a Glitch,m/lilo_and_stitch_2,63.0
+Snow White and the Seven Dwarfs (1937 film),m/1048445-snow_white_and_the_seven_dwarfs,68.0,Pinocchio (1940 film),m/1016342-pinocchio,58.0
+Paradise: Love,m/paradise_love_2012,79.0,Paradise: Hope,m/paradies_hoffnung,67.0
+Meet the Parents,m/meet_the_parents,76.0,Meet the Fockers,m/meet_the_fockers,85.0
+National Treasure (film),m/national_treasure,88.0,National Treasure: Book of Secrets,m/national-treasure-2-book-of-secrets,88.0
+Cousin Bobby,m/cousin_bobby,53.0,5 Broken Cameras,m/5_broken_cameras_2012,76.0
+Percy Jackson & the Olympians: The Lightning Thief,m/percy_jackson_and_the_olympians_the_lightning_thief,56.0,Percy Jackson: Sea of Monsters,m/percy_jackson_sea_of_monsters,79.0
+Pusher (1996 film),m/pusher_trilogy,100.0,Pusher II,m/10005910-pusher_2,68.0
+El compadre Mendoza,m/770704710,92.0,Let's Go with Pancho Villa,m/770815546,66.0
+Alice in the Cities,m/770676512,66.0,The Wrong Move,m/wrong_move,74.0
+Futurama: Bender's Game,m/futurama_benders_game,78.0,Futurama: The Beast with a Billion Backs,m/futurama_the_movie_beast_with_a_billion_backs,77.0
+Strictly Ballroom,m/1045568,83.0,Romeo + Juliet,m/william_shakespeares_romeo_and_juliet,67.0
+The Hobbit: An Unexpected Journey,m/the_hobbit_an_unexpected_journey,80.0,The Hobbit: The Desolation of Smaug,m/the_hobbit_the_desolation_of_smaug,66.0
+Teenage Mutant Ninja Turtles (1990 film),m/teenage_mutant_ninja_turtles_the_movie,60.0,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,m/teenage_mutant_ninja_turtles_2_the_secret_of_the_ooze,89.0
+The Vampire Lovers,m/vampire_lovers,85.0,Twins of Evil,m/271423865,61.0
+The Blood of a Poet,m/the_blood_of_a_poet,74.0,Orpheus (film),m/orpheus,30.0
+The Parent Trap (1961 film),m/1015944-parent_trap,45.0,The Parent Trap II,m/parent-trap-ii,56.0
+The Saint in London,m/the_saint_in_london,44.0,The Saint in Palm Springs,m/the-saint-in-palm-springs,10.0
+The Wicker Man,m/1023637-wicker_man,75.0,The Wicker Tree,m/cowboys-for-christ,52.0
+The Decameron (1971 film),m/decameron,43.0,The Canterbury Tales (film),m/the_canterbury_tales,72.0
+Scary Movie,m/scary_movie,79.0,Scary Movie 2,m/scary_movie_2,90.0
+Underworld (2003 film),m/underworld,93.0,Underworld: Evolution,m/underworld_evolution,92.0
+The Bourne Identity (2002 film),m/bourne_identity,94.0,The Bourne Supremacy (film),m/bourne_supremacy,71.0
+The Skeleton Dance,m/the-skeleton-dance,82.0,The Ugly Duckling (1931 film),m/the_ugly_duckling_1931,36.0
