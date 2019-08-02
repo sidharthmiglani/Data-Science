@@ -35,8 +35,24 @@ These instructions will get you a copy of the project up and running on your loc
       spark-submit part1.py wiki-copy-1 output_statsQ
       ```
     3. See output in terminal
+   
+###  Part2
 
+#### This machine learning part predicts the polarity of the movies based on cast members and ratings of the movie. 
+
+### Files included
+
+  1. data : Downloaded data from sfu cluster
+  2. omdb_clean.csv : Cleaned omdb data stored as a csv
+  3. ml1.py : program that does all computatoins
+  
+  
+    1. In your Terminal: move to part2 folder  
+    2. install textblob, nltk and any other library that is not already installed already.
+    3. Run python3 ml1.py (If if asks you to install any other packages then usually do pip install *pkg name*. Hopefully will work)
+    3. See output in terminal
 
 ## Authors
-
-* **Sarbjot Singh** - *Initial work* - [PurpleBooth](https://github.com/sarbjot-14)
+* **Sarbjot Singh** - (https://github.com/sarbjot-14)
+* **Sidharth Miglani** - (https://github.com/sidharthmiglani)
+* **Ronit Chawla** - (https://github.com/ronitchawla)
