@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
    
 ###  Part2
 
-#### This machine learning part predicts the polarity of the movies based on cast members and ratings of the movie. 
+#### This machine learning part predicts the polarity nature of the movies based on cast members and ratings of the movie. 
 
 ### Files included
 
@@ -54,6 +54,8 @@ These instructions will get you a copy of the project up and running on your loc
     
 ### Part3
 
+#### This machine learning task predicts the polarity nature of the movie based on the plot
+
 ### Files Included
 
   1. All data files
@@ -66,6 +68,25 @@ These instructions will get you a copy of the project up and running on your loc
     1. In your Terminal: move to part3 folder  
     2. run command $python3 ml2.py (might have to install Textblob, nltk if not already installed)
     3. See output score in terminal
+
+### Part4
+
+#### This part focuses over analysing the behaviour between movie ratings and movie awards through visual interpretation 
+
+
+### Files Included
+
+  1. All data files
+  2. part_four.ipynb : jupyter notebook file
+  3. part_four.py
+  4. some figures for visual analysis 
+  
+      
+  
+    1. In your Terminal: move to part4 folder  
+    2. run command $python3 part_four.py (might have to install seaborne if not already)
+    3. See output as figures
+
 
 ## Authors
 * **Sarbjot Singh** - (https://github.com/sarbjot-14)
