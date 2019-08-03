@@ -61,9 +61,11 @@ These instructions will get you a copy of the project up and running on your loc
   3. ml2.py
   4. polarity graph
   
-     1. In your Terminal: move to part3 folder  
-     2. run command $python3 ml2.py
-     3. See output score in terminal
+      
+  
+    1. In your Terminal: move to part3 folder  
+    2. run command $python3 ml2.py (might have to install Textblob, nltk if not already installed)
+    3. See output score in terminal
 
 ## Authors
 * **Sarbjot Singh** - (https://github.com/sarbjot-14)
