@@ -27,7 +27,6 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.pipeline import make_pipeline
 from sklearn.svm import SVC
 
-print("RUNNING PROGRAM:")
 '''
 wikidata = pd.read_json('data/wikidata-movies.json.gz', orient='record', lines=True)
 genres = pd.read_json('data/genres.json.gz', orient='record', lines=True)
@@ -72,7 +71,6 @@ wikidata = pd.read_json('data/wikidata-movies.json.gz', orient='record', lines=T
 rotten = pd.read_json('data/rotten-tomatoes.json.gz', orient='record', lines=True)
 omdb = pd.read_csv('omdb_clean.csv')
 
-print("DONE")
 def give_sentiment(x):
     if(x >= 0.5):
         return 'Really Positive'
@@ -83,24 +81,15 @@ def give_sentiment(x):
     elif((x<-0.5) and (x>=-1)):
         return 'Really negative'
 
-    # elif(x <0 and x>= -0.25):
-    #     return 'Positive'
-    # elif((x<-0.25) and (x>= -0.5)):
-    #     return 'negative'
-    # elif((x<-0.5) and (x>= -0.75)):
-    #     return 'Really negative'
-    # elif((x<-0.75) and (x>= -1)):
-    #     return 'Really negative'
 
 omdb['movie_nature'] = (omdb.polarity_full_string.apply(lambda x: give_sentiment(x)))
 
 movies = rotten.merge(omdb, how='inner', on='imdb_id')
 
-sns.heatmap(movies.isnull(), cbar=False)
+# sns.heatmap(movies.isnull(), cbar=False)
 
 movies = movies.dropna(subset=['audience_average','critic_average'])
 movies = movies[movies['omdb_awards'] != 'N/A']
-
 
 # let's clean wikiData
 # dropped all the null and NAN values
@@ -129,7 +118,7 @@ def cast_member_three(x):
 new_wikidata['cast_one'] = (new_wikidata.cast_member.apply(lambda x: cast_member_one(x)))
 new_wikidata['cast_two'] = (new_wikidata.cast_member.apply(lambda x: cast_member_two(x)))
 new_wikidata['cast_three'] = (new_wikidata.cast_member.apply(lambda x: cast_member_three(x)))
-new_wikidata.to_csv('deleteme2.csv')
+# new_wikidata.to_csv('deleteme2.csv')
 # print(new_wikidata)
 
 # let's merge the cast members data into movies dataframe
@@ -142,7 +131,7 @@ model = make_pipeline(StandardScaler(),SVC(kernel='rbf'))
 # print(movies)
 
 movies = movies.drop(movies.index[3])
-movies.to_csv ('deleteme.csv', index = None, header=True)
+# movies.to_csv ('deleteme.csv', index = None, header=True)
 x = movies[['critic_average','cast_one','cast_two','cast_three']]
 y = movies.movie_nature
 
