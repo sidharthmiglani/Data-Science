@@ -71,7 +71,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Part4
 
-#### This part focuses over analysing the behaviour between movie ratings and movie awards through visual interpretation 
+#### This part analysied the behaviour between movie ratings and movie awards through visual interpretation 
 
 
 ### Files Included
